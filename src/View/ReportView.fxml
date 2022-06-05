@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea fx:id="textArea" layoutX="14.0" layoutY="14.0" prefHeight="366.0" prefWidth="339.0" />
+      <Button layoutX="451.0" layoutY="14.0" mnemonicParsing="false" onMouseClicked="#apptReport" text="Appointment Report" />
+      <Button layoutX="451.0" layoutY="95.0" mnemonicParsing="false" onMouseClicked="#contactReport" text="Contact Appointments" />
+      <Button layoutX="451.0" layoutY="184.0" mnemonicParsing="false" onMouseClicked="#databaseReport" text="Database Interactions" />
+      <Button layoutX="451.0" layoutY="267.0" mnemonicParsing="false" onMouseClicked="#loginReport" text="Login Activity" />
+      <Button layoutX="451.0" layoutY="354.0" mnemonicParsing="false" onMouseClicked="#returnToMain" text="Cancel" />
+   </children>
+</AnchorPane>
