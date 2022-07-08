@@ -1,7 +1,0 @@
-Type: Planning Session  Count 1
-Type: Online  Count 2
-Type: Phone  Count 1
-Type: asdf  Count 1
-
-4 Appointments in JUNE
-1 Appointments in JULY
